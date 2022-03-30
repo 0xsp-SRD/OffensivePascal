@@ -4,6 +4,15 @@
 
 # OffensivePascal
 Pascal Offsec repo for malware dev and red teaming 🚩
+# Pending 
+
+- Shellcode runner 
+- XOR shellcode runner 
+- Process Hollowing 
+- Lateral Movement 
+
+
+**make sure to keep watching this repo for changes**
 
 # Why I Like Pascal 
 Pascal is fast and verbose,and has full support for OOP, day by day it makes coding much easier for me. 

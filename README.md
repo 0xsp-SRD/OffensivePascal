@@ -6,9 +6,7 @@
 Pascal Offsec repo for malware dev and red teaming 🚩
 # Pending 
 
-- Shellcode runner 
-- XOR shellcode runner 
-- Process Hollowing 
+- AMSI / ETW Bypass 
 
 
 **make sure to keep watching this repo for changes**
